@@ -1,1 +1,1 @@
-# PatikaStore
+Java Store System
